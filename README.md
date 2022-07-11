@@ -8,7 +8,8 @@ The content is excellent for those who use [Tekton](https://tekton.dev/) and [Ar
 See [BookInfo CI/CD Tutorial](https://cloudnative_impress.gitlab.io/bookinfo-tutorial/)   
 
 ## Repositories
-This tutorial consists of the following two Git repositories.   
+This tutorial consists of the following two Git repositories.  
+TEST 202207
 
 **The Application Repository (BookInfo)**      
 [https://gitlab.com/cloudnative_impress/bookinfo](https://gitlab.com/cloudnative_impress/bookinfo)   
