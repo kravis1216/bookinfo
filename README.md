@@ -20,5 +20,5 @@ This tutorial consists of the following two Git repositories.
 This tutorial is also covered in the following book.   
 **[Kubernetes CI/CD Pipelines](https://www.amazon.co.jp/dp/4295012750)** (Amazon)
 
-- BookInfo Original Application on Istio   
+- BookInfo Original Application on Istio   i
 See https://github.com/istio/istio/tree/master/samples/bookinfo
